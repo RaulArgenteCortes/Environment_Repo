@@ -313,7 +313,7 @@ Material:
     - _Stains_Color_B: {r: 0.35220113, g: 0.30345276, b: 0.27356508, a: 0}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _Tiling_Blend_Mask: {r: 1, g: 1, b: 0, a: 0}
-    - _Tiling_General: {r: 4, g: 12, b: 0, a: 0}
+    - _Tiling_General: {r: 2, g: 6, b: 0, a: 0}
     - _Tiling_Stains_Mask: {r: 1, g: 1, b: 0, a: 0}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
