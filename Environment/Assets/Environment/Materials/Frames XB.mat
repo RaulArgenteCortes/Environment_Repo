@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Frames XA
+  m_Name: Frames XB
   m_Shader: {fileID: -6465566751694194690, guid: 485f083417d2a584581071fdfba9c9fa,
     type: 3}
   m_Parent: {fileID: 0}
@@ -306,7 +306,7 @@ Material:
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _Offset_Blend_Mask: {r: 0, g: 0, b: 0, a: 0}
-    - _Offset_General: {r: 0, g: 0, b: 0, a: 0}
+    - _Offset_General: {r: 0, g: 0.5, b: 0, a: 0}
     - _Offset_Stains_Mask: {r: 0, g: 0, b: 0, a: 0}
     - _Puddle_Stains_Color_A: {r: 0.75471693, g: 0.75471693, b: 0.75471693, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
