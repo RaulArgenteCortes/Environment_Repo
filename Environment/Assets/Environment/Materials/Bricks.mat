@@ -189,7 +189,7 @@ Material:
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
-    - _Displacement_Amount: 0.5
+    - _Displacement_Amount: 0
     - _DoubleSidedEnable: 1
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
@@ -305,7 +305,7 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Offset_Blend_Mask: {r: 0, g: 0, b: 0, a: 0}
+    - _Offset_Blend_Mask: {r: 1, g: 0, b: 0, a: 0}
     - _Offset_General: {r: 0, g: 0, b: 0, a: 0}
     - _Offset_Stains_Mask: {r: 0, g: 0, b: 0, a: 0}
     - _Puddle_Stains_Color_A: {r: 0.75471693, g: 0.75471693, b: 0.75471693, a: 0}
